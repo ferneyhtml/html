@@ -1,0 +1,46 @@
+body{
+background-color: rgb(rgb(255, 255, 255), green, blue);
+}
+header{
+    background-color: rgb(rgb(255, 0, 0), green, blue);
+    height: 100px;
+    text-align: center;
+    line-height: 50px;
+    color: #ff0000;
+}
+nav{
+    background-color: rgb(rgb(159, 20, 167), green, blue);
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+#f1{
+    background-color: rgb(rgb(142, 59, 193), green, blue);
+    height: 300px;
+    color: rgb(rgb(0, 0, 0), green, blue);
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#f2{
+    background-color: rgb(rgb(208, 214, 25), green, blue);
+    height: 300px;
+    color: rgb(rgb(0, 0, 0), green, blue);
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#f3{
+    background-color: rgb(rgb(238, 165, 8), green, blue);
+    height: 400px;
+    color: rgb(rgb(0, 0, 0), green, blue);
+    text-align: center;
+}
+footer{
+    clear: both;
+    background-color: rgb(rgb(13, 47, 214), green, blue);
+    height:40px;
+    color: rgb(rgb(0, 0, 0), green, blue);
+    text-align: center;
+}
